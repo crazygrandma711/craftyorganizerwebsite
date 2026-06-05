@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Use First — Crafty Organizer by Ruthy</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+<div class="page-container">
+
+    <!-- SIDEBAR -->
+    <div class="sidebar">
+        <h2>Crafty Organizer by Ruthy</h2>
+
+        <a href="../home.html">🏠 Home</a>
+        <a href="../start-here.html">✨ Start Here</a>
+
+        <h3>Worksheets</h3>
+        <a href="punch-outs.html">🔹 Punch‑Outs</a>
+        <a href="stickers.html">🔹 Stickers</a>
+        <a href="washi.html">🔹 Washi</a>
+        <a href="planner.html">🔹 Planner</a>
+        <a href="sketches.html">🔹 Sketches</a>
+        <a href="use-first.html" class="active">🔹 Use First</a>
+
+        <h3>PDF Downloads</h3>
+        <a href="../pdfs/use-first-pdf.html">📄 Use First PDF</a>
+
+        <h3>Extras</h3>
+        <a href="../style-guide.html">🎨 Style Guide</a>
+        <a href="../logo.html">💖 Logo</a>
+        <a href="../mobile-home.html">📱 Mobile Homepage</a>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div class="main-content">
+
+        <h1 class="page-title">Use First Worksheet</h1>
+
+        <div class="card">
+            <h2 class="section-title">What Should You Use First?</h2>
+            <p>
+                This worksheet helps you choose supplies you want to prioritize — items you love,
+                items you’ve been saving, or items you want to use before buying more.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2 class="section-title">Worksheet</h2>
+
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr>
+                    <th>Item</th>
+                    <th>Why Use It First?</th>
+                    <th>Project Ideas</th>
+                    <th>Notes</th>
+                </tr>
+                <tr>
+                    <td>Item 1</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Item 2</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Item 3</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Item 4</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Item 5</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="card">
+            <h2 class="section-title">Download PDF</h2>
+            <a class="button" href="../pdfs/use-first-pdf.html">Open Use First PDF</a>
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>

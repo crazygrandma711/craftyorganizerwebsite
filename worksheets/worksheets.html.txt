@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Worksheets — Crafty Organizer by Ruthy</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+<div class="page-container">
+
+    <!-- SIDEBAR -->
+    <div class="sidebar">
+        <h2>Crafty Organizer by Ruthy</h2>
+
+        <a href="../home.html">🏠 Home</a>
+        <a href="../start-here.html">✨ Start Here</a>
+
+        <h3>Worksheets</h3>
+        <a href="punch-outs.html">🔹 Punch‑Outs</a>
+        <a href="stickers.html">🔹 Stickers</a>
+        <a href="washi.html">🔹 Washi</a>
+        <a href="planner.html">🔹 Planner</a>
+        <a href="sketches.html">🔹 Sketches</a>
+        <a href="use-first.html">🔹 Use First</a>
+
+        <h3>PDF Downloads</h3>
+        <a href="../pdfs/punch-outs-pdf.html">📄 Punch‑Outs PDF</a>
+        <a href="../pdfs/stickers-pdf.html">📄 Stickers PDF</a>
+        <a href="../pdfs/washi-pdf.html">📄 Washi PDF</a>
+        <a href="../pdfs/planner-pdf.html">📄 Planner PDF</a>
+        <a href="../pdfs/sketches-pdf.html">📄 Sketches PDF</a>
+        <a href="../pdfs/use-first-pdf.html">📄 Use First PDF</a>
+
+        <h3>Dividers</h3>
+        <a href="../dividers/divider-worksheets.html">📁 Worksheets</a>
+        <a href="../dividers/divider-inventory.html">📁 Inventory</a>
+        <a href="../dividers/divider-planning.html">📁 Planning</a>
+        <a href="../dividers/divider-sketching.html">📁 Sketching</a>
+        <a href="../dividers/divider-stash.html">📁 Stash Rotation</a>
+
+        <h3>Extras</h3>
+        <a href="../style-guide.html">🎨 Style Guide</a>
+        <a href="../logo.html">💖 Logo</a>
+        <a href="../mobile-home.html">📱 Mobile Homepage</a>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div class="main-content">
+
+        <h1 class="page-title">Worksheets</h1>
+
+        <!-- INTRO CARD -->
+        <div class="card">
+            <h2 class="section-title">Your Interactive Worksheet Library</h2>
+            <p>
+                These worksheets help you track, organize, and manage every part of your crafting stash.
+                Click any worksheet below to open it. Each one has a matching PDF version for printing or binder use.
+            </p>
+        </div>
+
+        <!-- WORKSHEET LINKS -->
+        <div class="card">
+            <h2 class="section-title">Choose a Worksheet</h2>
+
+            <a class="button" href="punch-outs.html">Punch‑Outs</a>
+            <a class="button" href="stickers.html">Stickers</a>
+            <a class="button" href="washi.html">Washi</a>
+            <a class="button" href="planner.html">Planner</a>
+            <a class="button" href="sketches.html">Sketches</a>
+            <a class="button" href="use-first.html">Use First</a>
+        </div>
+
+        <!-- PDF LINKS -->
+        <div class="card">
+            <h2 class="section-title">Download PDFs</h2>
+
+            <a class="button" href="../pdfs/punch-outs-pdf.html">Punch‑Outs PDF</a>
+            <a class="button" href="../pdfs/stickers-pdf.html">Stickers PDF</a>
+            <a class="button" href="../pdfs/washi-pdf.html">Washi PDF</a>
+            <a class="button" href="../pdfs/planner-pdf.html">Planner PDF</a>
+            <a class="button" href="../pdfs/sketches-pdf.html">Sketches PDF</a>
+            <a class="button" href="../pdfs/use-first-pdf.html">Use First PDF</a>
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Washi PDF — Crafty Organizer by Ruthy</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+<div class="page-container">
+
+    <!-- SIDEBAR -->
+    <div class="sidebar">
+        <h2>Crafty Organizer by Ruthy</h2>
+
+        <a href="../home.html">🏠 Home</a>
+        <a href="../start-here.html">✨ Start Here</a>
+        <a href="../worksheets/worksheets.html">📘 Worksheets</a>
+
+        <h3>PDF Downloads</h3>
+        <a href="punch-outs-pdf.html">📄 Punch‑Outs PDF</a>
+        <a href="stickers-pdf.html">📄 Stickers PDF</a>
+        <a href="washi-pdf.html" class="active">📄 Washi PDF</a>
+        <a href="planner-pdf.html">📄 Planner PDF</a>
+        <a href="sketches-pdf.html">📄 Sketches PDF</a>
+        <a href="use-first-pdf.html">📄 Use First PDF</a>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div class="main-content">
+
+        <h1 class="page-title">Washi PDF</h1>
+
+        <div class="card">
+            <h2 class="section-title">Download or View</h2>
+            <p>Click the button below to open your Washi PDF.</p>
+            <a class="button" href="washi.pdf" target="_blank">Open Washi PDF</a>
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>
