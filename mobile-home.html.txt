@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mobile Home — Crafty Organizer by Ruthy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="mobile-container">
+
+    <h1 class="mobile-title">Crafty Organizer</h1>
+    <p class="mobile-tagline">by Ruthy</p>
+
+    <div class="mobile-buttons">
+
+        <a class="button" href="start-here.html">✨ Start Here</a>
+        <a class="button" href="worksheets/worksheets.html">📘 Worksheets</a>
+        <a class="button" href="pdfs/punch-outs-pdf.html">📄 PDFs</a>
+        <a class="button" href="style-guide.html">🎨 Style Guide</a>
+        <a class="button" href="logo.html">💖 Logo</a>
+
+    </div>
+
+</div>
+
+</body>
+</html>

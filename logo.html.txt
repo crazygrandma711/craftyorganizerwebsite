@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Logo — Crafty Organizer by Ruthy</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="page-container">
+
+    <!-- SIDEBAR -->
+    <div class="sidebar">
+        <h2>Crafty Organizer by Ruthy</h2>
+
+        <a href="home.html">🏠 Home</a>
+        <a href="start-here.html">✨ Start Here</a>
+
+        <h3>Extras</h3>
+        <a href="style-guide.html">🎨 Style Guide</a>
+        <a href="logo.html" class="active">💖 Logo</a>
+        <a href="mobile-home.html">📱 Mobile Homepage</a>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div class="main-content">
+
+        <h1 class="page-title">Crafty Organizer Logo</h1>
+
+        <div class="card">
+            <h2 class="section-title">Your Logo</h2>
+            <p>This is the official Crafty Organizer by Ruthy logo.</p>
+
+            <!-- Replace this with your actual logo file name -->
+            <img src="images/logo.png" alt="Crafty Organizer Logo" style="max-width: 300px; margin-top: 20px;">
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>

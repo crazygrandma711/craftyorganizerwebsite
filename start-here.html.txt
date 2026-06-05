@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Start Here — Crafty Organizer by Ruthy</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="page-container">
+
+    <!-- SIDEBAR -->
+    <div class="sidebar">
+        <h2>Crafty Organizer by Ruthy</h2>
+
+        <a href="home.html">🏠 Home</a>
+        <a href="start-here.html" class="active">✨ Start Here</a>
+
+        <h3>Worksheets</h3>
+        <a href="worksheets/worksheets.html">📘 Worksheet Library</a>
+
+        <h3>PDF Downloads</h3>
+        <a href="pdfs/punch-outs-pdf.html">📄 Punch‑Outs PDF</a>
+        <a href="pdfs/stickers-pdf.html">📄 Stickers PDF</a>
+        <a href="pdfs/washi-pdf.html">📄 Washi PDF</a>
+        <a href="pdfs/planner-pdf.html">📄 Planner PDF</a>
+        <a href="pdfs/sketches-pdf.html">📄 Sketches PDF</a>
+        <a href="pdfs/use-first-pdf.html">📄 Use First PDF</a>
+
+        <h3>Dividers</h3>
+        <a href="dividers/divider-worksheets.html">📁 Worksheets</a>
+        <a href="dividers/divider-inventory.html">📁 Inventory</a>
+        <a href="dividers/divider-planning.html">📁 Planning</a>
+        <a href="dividers/divider-sketching.html">📁 Sketching</a>
+        <a href="dividers/divider-stash.html">📁 Stash Rotation</a>
+
+        <h3>Extras</h3>
+        <a href="style-guide.html">🎨 Style Guide</a>
+        <a href="logo.html">💖 Logo</a>
+        <a href="mobile-home.html">📱 Mobile Homepage</a>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div class="main-content">
+
+        <h1 class="page-title">Start Here</h1>
+
+        <div class="card">
+            <h2 class="section-title">Welcome to Your Crafting System</h2>
+            <p>
+                This page will help you understand how to use your worksheets, how to set up your binder,
+                and how to get the most out of your crafting stash.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2 class="section-title">How to Use This Website</h2>
+            <p>
+                Each worksheet is interactive and also available as a printable PDF. Use the worksheets
+                to track your supplies, plan your projects, and stay organized.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2 class="section-title">Next Steps</h2>
+            <p>
+                When you're ready, explore the Worksheet Library to begin organizing your crafting stash.
+            </p>
+            <a class="button" href="worksheets/worksheets.html">Open Worksheet Library</a>
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>
